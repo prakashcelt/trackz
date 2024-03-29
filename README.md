@@ -1,1 +1,1 @@
-A cool way to track your habits
+A cool way to track your habits.
